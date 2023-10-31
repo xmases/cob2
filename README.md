@@ -10,7 +10,8 @@ El archivo main.py es el core del proyecto solo te va a devolver sus semejanzas 
 
 ```bash
 
-[python3 / python] -> foo@bar/> python3 anl.py archivo-base archivo-a-comparar
+[python3 / python] -> foo@bar/> 
+python3 main.py archivo-base archivo-a-comparar
 
 ```
 
